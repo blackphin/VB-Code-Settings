@@ -1,0 +1,23 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+	{
+		"key": "ctrl+b",
+		"command": "-workbench.action.toggleSidebarVisibility"
+	},
+	{
+		"key": "ctrl+shift+b",
+		"command": "-workbench.action.tasks.build"
+	},
+	{
+		"key": "ctrl+shift+b",
+		"command": "python.execInTerminal"
+	},
+	{
+		"key": "ctrl+b",
+		"command": "code-runner.run"
+	},
+	{
+		"key": "ctrl+alt+n",
+		"command": "-code-runner.run"
+	}
+]
