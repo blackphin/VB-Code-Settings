@@ -46,6 +46,7 @@
     "code-runner.showExecutionMessage": false,
     "code-runner.saveFileBeforeRun": true,
     "code-runner.runInTerminal": false,
+    "code-runner.saveAllFilesBeforeRun": true,
     "python.pythonPath": "C:\\Python\\Python39\\python.exe",
     "workbench.settings.editor": "json",
     "python.formatting.provider": "black",
