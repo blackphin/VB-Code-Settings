@@ -10,7 +10,7 @@
             "filenamePattern": "*.ipynb"
         }
     ],
-    "editor.tabSize": 6,
+    "editor.tabSize": 4,
     "editor.fontFamily": "Source Code Pro",
     "editor.renderWhitespace": "none",
     "editor.multiCursorModifier": "ctrlCmd",
@@ -56,7 +56,7 @@
     "git.confirmSync": false,
     "tabnine.experimentalAutoImports": true,
     "editor.comments.insertSpace": true,
-    "printcode.tabSize": 6,
+    "printcode.tabSize": 4,
     "printcode.lineNumbers": "editor",
     "printcode.paperSize": "a4",
     "printcode.fontSize": 10
