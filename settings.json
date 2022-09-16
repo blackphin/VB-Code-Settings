@@ -54,5 +54,6 @@
         ]
     },
     "security.workspace.trust.untrustedFiles": "open",
-    "debug.onTaskErrors": "debugAnyway"
+    "debug.onTaskErrors": "debugAnyway",
+    "editor.inlineSuggest.enabled": true
 }
