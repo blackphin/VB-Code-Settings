@@ -23,7 +23,7 @@
     "git.confirmSync": false,
     "print.colourScheme": "GitHub",
     "print.fontSize": "10pt",
-    "python.defaultInterpreterPath": "C:\\Program Files\\Python310\\python.exe",
+    // "python.defaultInterpreterPath": "C:\\Program Files\\Python310\\python.exe",
     "python.formatting.provider": "black",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
